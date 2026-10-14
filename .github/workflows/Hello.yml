@@ -8,5 +8,5 @@ jobs:
   hello:
     runs-on: ubuntu-latest
     steps:
-      - name: Display Message
+      - name: abdullah imran
         run: echo "My first CI workflow is running!"
